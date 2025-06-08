@@ -8,7 +8,7 @@ async def cmd_start(message: types.Message):
     welcome_text = (
         f"👋 Assalomu alaykum, <b>{full_name}</b>!\n\n"
         "UmraJet botga xush kelibsiz! 🌟\n\n"
-        "Quyidagi xizmatlardan birini tanlang:\n\n"
+        "Quyidagi xizmatlardan birini tanlang:\n"
         "🕋 Umra Paketlari\n"
         "🛂 Visa Xizmatlari\n"
         "🌙 Ravza / Tasreeh Ruxsatnomalari\n"
